@@ -1,2 +1,2 @@
-# Computer_Vision
-Real-time hands-on projects
+Colored object detection  
+
