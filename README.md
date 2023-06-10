@@ -1,2 +1,3 @@
 # Colored object detection  
-Detect an object of any color using OpenCV and Python
+Detect colored multiple objects of pink and yellow color using OpenCV and Python
+chnage the BGR color space pixel values of colored object of interest in the lines of code to detect
