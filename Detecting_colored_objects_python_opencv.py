@@ -28,7 +28,7 @@ while True:
         x1,y1,x2,y2=bbox_yellow
         bbox_rectangle=cv2.rectangle(frame,(x1,y1),(x2,y2),(255,0,0),10)
 
-    # print(bbox) whenever yellow colored object identified in frame bbox co-ordinates printed
+    # print(bbox_yellow) whenever yellow colored object identified in frame, bbox_yellow co-ordinates printed
 
     cv2.imshow('frame', frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
